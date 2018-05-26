@@ -9,19 +9,17 @@ Lớp 17it2
 
 Các bước để chạy:
 
-1-mở trình IDE (netbean or eclipse).
+1. Tải project từ github
 
-2-tải file java trên
+2. Mở cmd
 
-3-open file vừa tải trong trình IDE
+3. Dùng lệnh cd chuyển đến thư mục chứa source code
 
-4-run file vừa mở
+ví dụ : D:\eclipse-workspace\thigiuaki2\src
 
-5-cửa sổ hiện ra, mở tìm thư mục cần coppy ở cửa sổ explorer, sau đó nhấn button "coppy"
+4. Biên dịch bằng lệnh javac thigiuaki2\FileExplorer.java
 
-6-Cũng cửa sổ explorer đó, tì đến nơi cần dán thư mục vừa coppy, sau đó nhấn button pase.
-
-8-Mở thisPC tìm đến thư mục đã dán khi nãy để kiểm tra.
+5. Chạy bằng lệnh java thigiuaki2.FileExplorer
 
 Chức năng mở rộng ở đây là chức năng : coppy.
 
