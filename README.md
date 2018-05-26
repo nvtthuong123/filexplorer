@@ -1,5 +1,4 @@
 # filexplorer
-cách chạy code.
 
 Họ Và Tên : Nguyễn Văn Thương
 
@@ -7,7 +6,7 @@ Lớp 17it2
 
 Đề số 20. Chức năng paste nhiều tệp tin
 
-Các bước để chạy:
+Hướng dẫn chạy code
 
 1. Tải project từ github
 
